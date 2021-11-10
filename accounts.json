@@ -1,0 +1,10 @@
+{
+    "default": "somePythonProgrammer",
+    "accounts": {
+        "somePythonProgrammer": {
+            "uuid": "8d3072968ce23e5aacd108254adb7e61",
+            "online": false
+        }
+    },
+    "client_token": "39976e6172fd4cca825502fc253be451"
+}
